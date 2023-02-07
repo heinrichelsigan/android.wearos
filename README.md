@@ -1,4 +1,4 @@
-# android.wearos
+# android.wearos v0.0.1
 android wearos apps GPL3 root@darkstar.work
 
 https://youtu.be/jHGvS36CbWs
