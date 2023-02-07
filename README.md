@@ -1,2 +1,2 @@
 # android.wearos
-android wearos apps
+android wearos apps GPL3 root@darkstar.work
